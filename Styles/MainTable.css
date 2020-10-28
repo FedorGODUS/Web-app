@@ -1,0 +1,37 @@
+.svg-figure{
+    opacity: 0.3;
+}
+svg{
+    width: 300px;
+    height: 300px;
+    border: 2px solid dimgray;
+    background-color: silver;
+    border-radius: 4px;
+
+}
+
+
+
+*{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: normal;
+}
+
+.mainTable{
+    flex-direction: column;
+    background-color: gold;
+    width: 75%;
+    margin: auto;
+    height: 100%;
+}
+#check{
+    margin-left: 70%;
+    color: red;
+    border: 2px solid dimgray;
+    height: 40px;
+    width: 200px;
+    background-color: silver;
+}
+
+

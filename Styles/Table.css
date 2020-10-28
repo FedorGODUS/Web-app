@@ -1,0 +1,35 @@
+#outTable{
+    background-color: silver;
+    color: red;
+    text-align: center;
+    margin: auto;
+    padding-top: 2%;
+    position: center;
+    width: 75%;
+    margin-bottom: 7%;
+}
+.xValue{
+    background-color: red;
+    color: black;
+}
+.yValue{
+    background-color: orange;
+    color: black;
+}
+.rValue{
+    background-color: yellow;
+    color: black;
+}
+.result{
+    background-color: deepskyblue;
+    color: black;
+}
+.date{
+    background-color: blue;
+    color: yellow;
+}
+.time{
+    background-color: darkviolet;
+    color: black;
+}
+
